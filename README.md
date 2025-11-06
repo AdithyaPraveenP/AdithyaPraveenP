@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Passionate about ML and Web<br>💯Learning and exploring technologies<br>💻Full Stack Developer
+✨ Passionate about ML and Web<br>💯Learning and exploring technologies<br>🛠Product Builder<br>💻Full Stack Ai Agent Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-praveen-p-9b9545166) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhithyapraveen@gmail.com) 
